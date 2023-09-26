@@ -1,0 +1,4 @@
+<resources>
+    <string name = "app_name">Eventos</string>
+    <string name = "TextoBienvenida">Bienvenido!!!</string><string name = "MIAPP">Mi app</string>
+</resources>
